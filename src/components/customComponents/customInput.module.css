@@ -1,0 +1,19 @@
+.conatiner {
+    margin: 1.5rem 0;
+}
+
+
+.title {
+    margin-left: 0.5rem;
+}
+
+
+.field {
+    border-radius: 1rem;
+    border: none;
+    font-size: 1.5rem;
+    height: 2rem;
+    outline: none;
+    padding: .2rem .5rem;
+    width: 20rem;
+}
