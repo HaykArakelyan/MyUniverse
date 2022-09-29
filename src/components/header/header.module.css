@@ -1,0 +1,40 @@
+.container{
+    align-items: center;
+    background-color: #00000099;
+    border-bottom-left-radius: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 0.5rem;
+    width: 90%;
+}
+
+.logo {
+    cursor: pointer;
+    margin-left: 2rem;
+}
+.logo h1 {
+    color: white;
+}
+
+.tabbar ul {
+    float: right;
+    margin-right: 10rem;
+}
+
+.a {
+    color: white;
+    cursor: pointer;
+    margin-left: 1.5rem;
+    text-decoration: none;
+}
+
+.balance{
+    padding-right: 2rem;
+}
+
+.balance p{ 
+    color: white;
+}

@@ -1,0 +1,31 @@
+.container {
+    background-color: #00000099;
+    border-radius: 1.5rem;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 1rem auto 0;
+    padding-top: 1rem;
+    width: 30%;
+}
+
+
+.cardImage {
+    margin: 0 auto;
+    width: 30rem;
+}
+
+
+.creditCard {
+    background-image: url("../../../public/assets/credit_card.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 225px;
+    width: 400px;
+}
+
+
+.dataInputFields {
+    margin: 0 auto;
+}

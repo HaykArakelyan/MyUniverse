@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Permanent+Marker&display=swap');
+
+body {
+  background-image: url("../public/assets/banner_bg.jpg");
+  background-repeat: no-repeat;
+  cursor: default;
+  font-family: 'Pacifico', cursive;
+  font-family: 'Permanent Marker', cursive;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,19 @@
+.container {
+    background-color: #00000099;
+    border-radius: 1.5rem;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 20rem auto 0;
+    width: 50%;
+}
+
+.title {
+    margin: 0 auto;
+}
+
+.article {
+    padding-top: 0;
+    padding: 2rem;
+}
